@@ -1097,7 +1097,7 @@
           "type": "legacy-mintage",
           "counterparty": {
             "chain_name": "injective",
-            "base_denom": "factory/inj1sklcy2px26jj73ffs2f7fmxw77zsts66prrqxr/DRUGS"
+            "base_denom": "factory/inj178zy7myyxewek7ka7v9hru8ycpvfnen6xeps89/DRUGS"
           },
           "provider": "Drugs"
         }
